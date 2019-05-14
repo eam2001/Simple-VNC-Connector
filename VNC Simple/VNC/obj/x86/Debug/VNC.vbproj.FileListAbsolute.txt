@@ -1,0 +1,20 @@
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\bin\Debug\VNC.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\bin\Debug\VNC.pdb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\bin\Debug\VNC.xml
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.Form1.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.Resources.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.xml
+C:\Users\Eduardo\documents\visual studio 2010\Projects\VNC\VNC\obj\x86\Debug\VNC.pdb
+C:\transfer\VNC Simple\VNC\bin\Debug\VNC.exe
+C:\transfer\VNC Simple\VNC\bin\Debug\VNC.pdb
+C:\transfer\VNC Simple\VNC\bin\Debug\VNC.xml
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.Form1.resources
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.Resources.resources
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.exe
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.xml
+C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.pdb
