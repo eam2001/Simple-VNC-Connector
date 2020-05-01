@@ -18,3 +18,59 @@ C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
 C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.exe
 C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.xml
 C:\transfer\VNC Simple\VNC\obj\x86\Debug\VNC.pdb
+E:\VB\VB 2010\VNC Simple 1.0\VNC\bin\Debug\VNC.exe
+E:\VB\VB 2010\VNC Simple 1.0\VNC\bin\Debug\VNC.pdb
+E:\VB\VB 2010\VNC Simple 1.0\VNC\bin\Debug\VNC.xml
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.Form1.resources
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.Resources.resources
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.exe
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.xml
+E:\VB\VB 2010\VNC Simple 1.0\VNC\obj\x86\Debug\VNC.pdb
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\bin\Debug\VNC.exe
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\bin\Debug\VNC.pdb
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\bin\Debug\VNC.xml
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.Form1.resources
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.Resources.resources
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.exe
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.xml
+C:\Users\eam20\Desktop\VNC Simple 1.1\VNC\obj\x86\Debug\VNC.pdb
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\bin\Debug\VNC.exe
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\bin\Debug\VNC.pdb
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\bin\Debug\VNC.xml
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.Form1.resources
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.Resources.resources
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.exe
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.xml
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.2\VNC\obj\x86\Debug\VNC.pdb
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\bin\Debug\VNC.exe
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\bin\Debug\VNC.pdb
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\bin\Debug\VNC.xml
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.Form1.resources
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.Resources.resources
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.exe
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.xml
+D:\eam2001\Onedrive\VB\VB 2010\VNC Simple 1.4\VNC\obj\x86\Debug\VNC.pdb
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\bin\Debug\VNC.exe
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\bin\Debug\VNC.pdb
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\bin\Debug\VNC.xml
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.vbprojAssemblyReference.cache
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.Form1.resources
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.Resources.resources
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.vbproj.GenerateResource.cache
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.vbproj.CoreCompileInputs.cache
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.exe
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.xml
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.pdb
+E:\Nuvem\OneDrive\VB\VB 2010\VNC Simple 1.5\VNC\obj\x86\Debug\VNC.Dadospdv.resources
