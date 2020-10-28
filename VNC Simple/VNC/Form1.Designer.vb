@@ -63,6 +63,19 @@ Partial Class Form1
         Me.Button7 = New System.Windows.Forms.Button()
         Me.Button8 = New System.Windows.Forms.Button()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
+        Me.CheckBox2 = New System.Windows.Forms.CheckBox()
+        Me.CheckBox3 = New System.Windows.Forms.CheckBox()
+        Me.CheckBox4 = New System.Windows.Forms.CheckBox()
+        Me.DomainUpDown1 = New System.Windows.Forms.DomainUpDown()
+        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton2 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton3 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton4 = New System.Windows.Forms.RadioButton()
+        Me.PastaDoProgramaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.KtransferToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.QAToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.OutraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.OutraToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ContextMenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -107,7 +120,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(320, 119)
+        Me.Button2.Location = New System.Drawing.Point(320, 173)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(95, 21)
         Me.Button2.TabIndex = 35
@@ -117,7 +130,7 @@ Partial Class Form1
         '
         'Timer1
         '
-        Me.Timer1.Interval = 500
+        Me.Timer1.Interval = 1000
         '
         'Label1
         '
@@ -165,18 +178,18 @@ Partial Class Form1
         '
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripSeparator2, Me.CromeToolStripMenuItem, Me.ClipboardToolStripMenuItem, Me.AbrirPastaToolStripMenuItem})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(132, 76)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(181, 98)
         '
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(128, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(177, 6)
         '
         'CromeToolStripMenuItem
         '
         Me.CromeToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CasiBancadaToolStripMenuItem, Me.SiacBancadaToolStripMenuItem, Me.ToolStripSeparator1, Me.CasiPréproduçãoToolStripMenuItem, Me.SiacPréproduçãoToolStripMenuItem, Me.ToolStripSeparator5, Me.CasiProduçãoToolStripMenuItem, Me.SiacProduçãoToolStripMenuItem, Me.ToolStripSeparator6, Me.CasiFranqiasToolStripMenuItem, Me.SiacFranquiasToolStripMenuItem})
         Me.CromeToolStripMenuItem.Name = "CromeToolStripMenuItem"
-        Me.CromeToolStripMenuItem.Size = New System.Drawing.Size(131, 22)
+        Me.CromeToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.CromeToolStripMenuItem.Text = "Crome"
         '
         'CasiBancadaToolStripMenuItem
@@ -246,7 +259,7 @@ Partial Class Form1
         '
         Me.ClipboardToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.UserParametroToolStripMenuItem, Me.PassParametroToolStripMenuItem, Me.ToolStripSeparator3, Me.UserPromoçãoToolStripMenuItem, Me.PassPromoçãoToolStripMenuItem, Me.ToolStripSeparator4, Me.PassConsiacToolStripMenuItem})
         Me.ClipboardToolStripMenuItem.Name = "ClipboardToolStripMenuItem"
-        Me.ClipboardToolStripMenuItem.Size = New System.Drawing.Size(131, 22)
+        Me.ClipboardToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ClipboardToolStripMenuItem.Text = "Clipboard"
         '
         'UserParametroToolStripMenuItem
@@ -291,8 +304,9 @@ Partial Class Form1
         '
         'AbrirPastaToolStripMenuItem
         '
+        Me.AbrirPastaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PastaDoProgramaToolStripMenuItem, Me.KtransferToolStripMenuItem, Me.QAToolStripMenuItem, Me.OutraToolStripMenuItem, Me.OutraToolStripMenuItem1})
         Me.AbrirPastaToolStripMenuItem.Name = "AbrirPastaToolStripMenuItem"
-        Me.AbrirPastaToolStripMenuItem.Size = New System.Drawing.Size(131, 22)
+        Me.AbrirPastaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AbrirPastaToolStripMenuItem.Text = "Abrir pasta"
         '
         'Button5
@@ -332,10 +346,121 @@ Partial Class Form1
         Me.Button8.TabIndex = 44
         Me.Button8.Text = "Dadospdv.xml"
         Me.Button8.UseVisualStyleBackColor = True
+        Me.Button8.Visible = False
         '
         'OpenFileDialog1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
+        '
+        'CheckBox2
+        '
+        Me.CheckBox2.AutoSize = True
+        Me.CheckBox2.Location = New System.Drawing.Point(522, 69)
+        Me.CheckBox2.Name = "CheckBox2"
+        Me.CheckBox2.Size = New System.Drawing.Size(15, 14)
+        Me.CheckBox2.TabIndex = 45
+        Me.CheckBox2.UseVisualStyleBackColor = True
+        '
+        'CheckBox3
+        '
+        Me.CheckBox3.AutoSize = True
+        Me.CheckBox3.Location = New System.Drawing.Point(522, 96)
+        Me.CheckBox3.Name = "CheckBox3"
+        Me.CheckBox3.Size = New System.Drawing.Size(15, 14)
+        Me.CheckBox3.TabIndex = 46
+        Me.CheckBox3.UseVisualStyleBackColor = True
+        '
+        'CheckBox4
+        '
+        Me.CheckBox4.AutoSize = True
+        Me.CheckBox4.Location = New System.Drawing.Point(522, 123)
+        Me.CheckBox4.Name = "CheckBox4"
+        Me.CheckBox4.Size = New System.Drawing.Size(15, 14)
+        Me.CheckBox4.TabIndex = 47
+        Me.CheckBox4.UseVisualStyleBackColor = True
+        '
+        'DomainUpDown1
+        '
+        Me.DomainUpDown1.Location = New System.Drawing.Point(520, 39)
+        Me.DomainUpDown1.Name = "DomainUpDown1"
+        Me.DomainUpDown1.Size = New System.Drawing.Size(17, 20)
+        Me.DomainUpDown1.TabIndex = 48
+        Me.DomainUpDown1.Text = "0"
+        '
+        'RadioButton1
+        '
+        Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.5!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RadioButton1.Location = New System.Drawing.Point(320, 65)
+        Me.RadioButton1.Name = "RadioButton1"
+        Me.RadioButton1.Size = New System.Drawing.Size(53, 19)
+        Me.RadioButton1.TabIndex = 49
+        Me.RadioButton1.TabStop = True
+        Me.RadioButton1.Text = "Tudo"
+        Me.RadioButton1.UseVisualStyleBackColor = True
+        '
+        'RadioButton2
+        '
+        Me.RadioButton2.AutoSize = True
+        Me.RadioButton2.Location = New System.Drawing.Point(320, 88)
+        Me.RadioButton2.Name = "RadioButton2"
+        Me.RadioButton2.Size = New System.Drawing.Size(47, 17)
+        Me.RadioButton2.TabIndex = 50
+        Me.RadioButton2.TabStop = True
+        Me.RadioButton2.Text = "SRV"
+        Me.RadioButton2.UseVisualStyleBackColor = True
+        '
+        'RadioButton3
+        '
+        Me.RadioButton3.AutoSize = True
+        Me.RadioButton3.Location = New System.Drawing.Point(320, 111)
+        Me.RadioButton3.Name = "RadioButton3"
+        Me.RadioButton3.Size = New System.Drawing.Size(63, 17)
+        Me.RadioButton3.TabIndex = 51
+        Me.RadioButton3.TabStop = True
+        Me.RadioButton3.Text = "Bombas"
+        Me.RadioButton3.UseVisualStyleBackColor = True
+        '
+        'RadioButton4
+        '
+        Me.RadioButton4.AutoSize = True
+        Me.RadioButton4.Location = New System.Drawing.Point(320, 134)
+        Me.RadioButton4.Name = "RadioButton4"
+        Me.RadioButton4.Size = New System.Drawing.Size(76, 17)
+        Me.RadioButton4.TabIndex = 52
+        Me.RadioButton4.TabStop = True
+        Me.RadioButton4.Text = "MyAuchan"
+        Me.RadioButton4.UseVisualStyleBackColor = True
+        '
+        'PastaDoProgramaToolStripMenuItem
+        '
+        Me.PastaDoProgramaToolStripMenuItem.Name = "PastaDoProgramaToolStripMenuItem"
+        Me.PastaDoProgramaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.PastaDoProgramaToolStripMenuItem.Text = "Pasta do programa"
+        '
+        'KtransferToolStripMenuItem
+        '
+        Me.KtransferToolStripMenuItem.Name = "KtransferToolStripMenuItem"
+        Me.KtransferToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.KtransferToolStripMenuItem.Text = "transfer Q&A"
+        '
+        'QAToolStripMenuItem
+        '
+        Me.QAToolStripMenuItem.Name = "QAToolStripMenuItem"
+        Me.QAToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.QAToolStripMenuItem.Text = "OKI Q&A"
+        '
+        'OutraToolStripMenuItem
+        '
+        Me.OutraToolStripMenuItem.Name = "OutraToolStripMenuItem"
+        Me.OutraToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.OutraToolStripMenuItem.Text = "RDPs"
+        '
+        'OutraToolStripMenuItem1
+        '
+        Me.OutraToolStripMenuItem1.Name = "OutraToolStripMenuItem1"
+        Me.OutraToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.OutraToolStripMenuItem1.Text = "Outra"
         '
         'Form1
         '
@@ -343,6 +468,14 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(578, 253)
         Me.ContextMenuStrip = Me.ContextMenuStrip1
+        Me.Controls.Add(Me.RadioButton4)
+        Me.Controls.Add(Me.RadioButton3)
+        Me.Controls.Add(Me.RadioButton2)
+        Me.Controls.Add(Me.RadioButton1)
+        Me.Controls.Add(Me.DomainUpDown1)
+        Me.Controls.Add(Me.CheckBox4)
+        Me.Controls.Add(Me.CheckBox3)
+        Me.Controls.Add(Me.CheckBox2)
         Me.Controls.Add(Me.Button8)
         Me.Controls.Add(Me.Button7)
         Me.Controls.Add(Me.Button6)
@@ -357,7 +490,10 @@ Partial Class Form1
         Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.ComboBox1)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximumSize = New System.Drawing.Size(594, 292)
+        Me.MinimumSize = New System.Drawing.Size(594, 292)
         Me.Name = "Form1"
         Me.Text = "VNC xxxxxxx"
         Me.ContextMenuStrip1.ResumeLayout(False)
@@ -404,4 +540,17 @@ Partial Class Form1
     Friend WithEvents SiacFranquiasToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents AbrirPastaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
+    Friend WithEvents CheckBox2 As CheckBox
+    Friend WithEvents CheckBox3 As CheckBox
+    Friend WithEvents CheckBox4 As CheckBox
+    Friend WithEvents DomainUpDown1 As DomainUpDown
+    Friend WithEvents RadioButton1 As RadioButton
+    Friend WithEvents RadioButton2 As RadioButton
+    Friend WithEvents RadioButton3 As RadioButton
+    Friend WithEvents RadioButton4 As RadioButton
+    Friend WithEvents PastaDoProgramaToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents KtransferToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents QAToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents OutraToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents OutraToolStripMenuItem1 As ToolStripMenuItem
 End Class
